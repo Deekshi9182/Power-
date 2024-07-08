@@ -34,7 +34,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/system-telemetry-power-utilization.git
+    git clone https://github.com/Deekshi9182/Power-.git
     cd system-telemetry-power-utilization
     ```
 

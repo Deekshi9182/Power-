@@ -1,8 +1,5 @@
-# Example script to collect telemetry data from CPU, memory, NIC, and TDP
-
 import psutil  # for system and process utilities
 import time
-
 def collect_telemetry_data():
     while True:
         # CPU metrics
